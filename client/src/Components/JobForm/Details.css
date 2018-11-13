@@ -1,0 +1,27 @@
+.question {
+  padding-left: 15;
+  padding-right: 15;
+  display: flex;
+}
+
+.question:hover {
+  cursor: pointer;
+}
+
+.button {
+  width: 325;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.cancel {
+  color: #4886B0;
+  font-weight: 700;
+  padding: 5;
+}
+
+.cancel:hover {
+  cursor: pointer;
+}

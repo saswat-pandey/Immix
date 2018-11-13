@@ -1,0 +1,38 @@
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  background-color: white;
+  border: solid 1px gray;
+  box-shadow: 0 4px 2px -2px gray;
+  text-align: center;
+  transform: scale(1.4);
+}
+
+.btn-container:hover {
+  cursor: pointer;
+  background-color: rgb(245, 245, 245);
+}
+
+.icon {
+  position: relative;
+  top: 22px;
+  padding-left: 75px;
+  padding-right: 65px;
+}
+
+.text {
+  padding: 10px;
+  font-size: 12px;
+  position: relative;
+  top: 11px;
+  max-width: 160px;
+  text-align: center;
+}
+
+.text2 {
+  font-size: 11px;
+  font-weight: 375;
+  max-width: 160px;
+  text-align: center;
+}

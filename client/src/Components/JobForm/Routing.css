@@ -1,0 +1,22 @@
+.radio {
+  background-color: white;
+  padding: 20;
+  border: 1px solid black;
+  border-bottom-width: 0px;
+  display: flex;
+}
+
+.radio-text {
+  padding-left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.radio:hover {
+  cursor: pointer;
+  background-color: rgb(250, 250, 250);
+}
+
+.publish:hover {
+  cursor: pointer;
+}
